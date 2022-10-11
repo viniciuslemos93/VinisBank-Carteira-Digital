@@ -1,21 +1,24 @@
 <h1 align="center">VinisBank - Carteira Digital </h1>
+
 ![GitHub](https://img.shields.io/github/license/viniciuslemos93/VinisBank-Carteira-Digital)
 
 Projeto de estudo para praticar os conceitos aprendidos durante a disciplina de Algoritmos e Lógica de Programação da faculdade.
 <hr>
+
 O sistema realiza as seguintes operações:
 - Depósitos
 - Extrato dos débitos em conta
 - Realizar recargas de celular
 - Transferências PIX
+
 <hr>
-## Neste projeto pratiquei os seguintes conceitos de programação:
+## Neste projeto pratiquei os seguintes conceitos de programação:##
 - Variáveis
 - Estruturas de repetições
 - Funções com retorno e passagem por valor
 - Estruturas de condições
 <hr>
-### Projeto iniciado no dia 01/08/2022 e finalizado dia 08/08/2022.
+### Projeto iniciado no dia 01/08/2022 e finalizado dia 08/08/2022. ###
 
 <h2 align="centre">Tecnologias Usadas</h2>
 
