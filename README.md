@@ -11,7 +11,7 @@ O sistema realiza as seguintes operações:
 - Realiza recargas de celular
 - Transferências PIX
 <hr>
-Se por acaso o usuário realizar débitos (recarcas de celular e transferência Pix) e não tiver saldo, o mesmo ficará Negativo, informando ao usuário realizar um depósito o quanto antes para evitar ao máximo os acréscimos de juros diários.
+Se por acaso o usuário realizar débitos (recargas de celular e transferências Pix) e não tiver saldo, o mesmo ficará Negativo, informando ao usuário realizar um depósito o quanto antes para evitar ao máximo os acréscimos de juros diários.
 <hr>
 <h2> Neste projeto pratiquei os seguintes conceitos de programação: </h2>
 - Variáveis
@@ -25,6 +25,6 @@ Se por acaso o usuário realizar débitos (recarcas de celular e transferência 
 
 <div align="center">
      <div style="display: inline_block margin-left:auto margin-rigth:auto"><br>
-        <img align="center" alt="C plus plus icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
+        <img align="left" alt="C plus plus icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
     </div>
 </div>
