@@ -27,6 +27,6 @@ Se por acaso o usuário realizar débitos (recargas de celular e transferências
 
 <div align="center">
      <div style="display: inline_block margin-left:auto margin-rigth:auto"><br>
-        <img align="left" alt="C plus plus icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
+        <img align="center" alt="C plus plus icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
     </div>
 </div>
