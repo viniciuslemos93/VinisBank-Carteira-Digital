@@ -14,10 +14,12 @@ O sistema realiza as seguintes operações:
 Se por acaso o usuário realizar débitos (recargas de celular e transferências Pix) e não tiver saldo, o mesmo ficará Negativo, informando ao usuário realizar um depósito o quanto antes para evitar ao máximo os acréscimos de juros diários.
 <hr>
 <h2> Neste projeto pratiquei os seguintes conceitos de programação: </h2>
+
 - Variáveis
 - Estruturas de repetições
 - Funções com retorno e passagem por valor
 - Estruturas de condições
+
 <hr>
 <h3> Projeto iniciado no dia 01/08/2022 e finalizado dia 08/08/2022. </h3>
 <hr>
