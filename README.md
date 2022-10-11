@@ -1,10 +1,26 @@
-# VinisBank Carteira Digital
+<h1 align="center">VinisBank - Carteira Digital </h1>
 ![GitHub](https://img.shields.io/github/license/viniciuslemos93/VinisBank-Carteira-Digital)
 
-Este projeto em C++, desenvolvi como um projeto final da disciplina de Lógica e Algoritmos da faculdade, para abstrair e praticar mais o conteúdo aprendido durante esta disciplina.
-Basicamente, o sisteminha consiste em operações básicas, como realizar depósito, emitir extrato dos débitos em conta, realizar recargas de celular e transferências PIX.
-Neste projeto pratiquei os seguintes conceitos:
+Projeto de estudo para praticar os conceitos aprendidos durante a disciplina de Algoritmos e Lógica de Programação da faculdade.
+<hr>
+O sistema realiza as seguintes operações:
+- Depósitos
+- Extrato dos débitos em conta
+- Realizar recargas de celular
+- Transferências PIX
+<hr>
+## Neste projeto pratiquei os seguintes conceitos de programação:
 - Variáveis
 - Estruturas de repetições
-- Funções
+- Funções com retorno e passagem por valor
 - Estruturas de condições
+<hr>
+### Projeto iniciado no dia 01/08/2022 e finalizado dia 08/08/2022.
+
+<h2 align="centre">Tecnologias Usadas</h2>
+
+<div align="center">
+     <div style="display: inline_block margin-left:auto margin-rigth:auto"><br>
+        <img align="center" alt="C plus plus icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
+    </div>
+</div>
