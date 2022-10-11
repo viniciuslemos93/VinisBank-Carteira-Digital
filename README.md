@@ -21,7 +21,7 @@ Se por acaso o usuário realizar débitos (recargas de celular e transferências
 - Estruturas de condições
 
 <hr>
-<h3> Projeto iniciado no dia 01/08/2022 e finalizado dia 08/08/2022. </h3>
+<h3> Projeto iniciado no dia 01/08/2022 e finalizado no dia 08/08/2022. </h3>
 <hr>
 <h2 align="centre">Tecnologias Usadas</h2>
 
