@@ -26,7 +26,7 @@ Se por acaso o usuário realizar débitos (recargas de celular e transferências
 
 <h1 align="center">Gif do Resultado</h1>
 <div align="center">
-<img align="center" alt="Gif do funcionamento do sistema" height="500" width="600" src="Gif-Execucao-Sistema.PNG">
+<img align="center" alt="Gif do funcionamento do sistema" height="500" width="600" src="Gif-Execucao-Sistema.gif">
 </div>
 <h2 align="center">Tecnologias Usadas</h2>
 
