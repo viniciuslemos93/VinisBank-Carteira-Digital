@@ -24,9 +24,9 @@ Se por acaso o usuário realizar débitos (recargas de celular e transferências
 <h3> Projeto iniciado no dia 01/08/2022 e finalizado no dia 08/08/2022. </h3>
 <hr>
 
-## Print do resultado
+<h1 align="center">Gif do Resultado</h1>
 <div align="center">
-<img align="center" alt="Print da tela principal do sistema" height="500" width="600" src="print-execucao.PNG">
+<img align="center" alt="Gif do funcionamento do sistema" height="500" width="600" src="Gif-Execucao-Sistema.PNG">
 </div>
 <h2 align="center">Tecnologias Usadas</h2>
 
